@@ -1,3 +1,5 @@
+##### checkout the application : https://movie-application-jsgs.onrender.com/
+
 ### Movie Application:
 #### This movie application utilizes the Movie API from Rapid API, featuring approximately 42 movies with parameters such as title, genres, poster, and overview.
 #### The application is built using React.js to make API requests to the Movie API. 
